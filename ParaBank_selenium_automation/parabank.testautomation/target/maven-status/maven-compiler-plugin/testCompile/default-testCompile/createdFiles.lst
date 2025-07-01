@@ -1,0 +1,6 @@
+StepDefinitions/OpenAccount.class
+StepDefinitions/Hooks.class
+StepDefinitions/RegisterSteps.class
+StepDefinitions/LoginSteps.class
+StepDefinitions/TransferAmount.class
+TestRunner.class
