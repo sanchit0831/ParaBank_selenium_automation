@@ -1,6 +1,26 @@
-In this automation exercise, you'll automate core functionalities of the Parabank online banking application using Selenium, TestNG, and Cucumber with Data-Driven Testing. The key test scenarios include:
+# Parabank Automation Project
 
-Register a New Account: Automate the user registration process by filling out dynamic data (like name, address, and credentials) using data-driven testing from Cucumber's Scenario Outline. This allows testing registration with multiple sets of user data.
-Log in to the Application: Log in with different sets of credentials to validate both successful and unsuccessful login attempts. Use data-driven testing to verify login functionality for multiple users.
-Create a New Savings Account: Once logged in, automate the creation of a savings account.
-Transfer Amount Between Accounts: Automate the process of transferring funds between accounts.
+This project automates the core functionalities of the [Parabank Online Banking Application](https://parabank.parasoft.com/parabank/index.htm) using **Selenium**, **TestNG**, and **Cucumber** with **Data-Driven Testing**.
+
+---
+
+## 🚀 About The Project
+
+In this automation exercise, the following key scenarios have been automated:
+
+### 1. 📝 Register a New Account
+- Automates the user registration process using **Scenario Outline** in Cucumber.
+- Dynamically fills form fields like name, address, and credentials.
+- Tests with multiple data sets to ensure robustness of registration flow.
+
+### 2. 🔐 Login to the Application
+- Validates login functionality using multiple sets of user credentials.
+- Covers both successful and unsuccessful login attempts using data-driven testing.
+
+### 3. 💰 Create a New Savings Account
+- Automates the creation of a new savings account after login.
+
+### 4. 🔄 Transfer Amount Between Accounts
+- Automates the fund transfer process from one account to another.
+
+---
